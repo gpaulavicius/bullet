@@ -4,6 +4,7 @@
 [![Build Status](https://secure.travis-ci.org/flyerhzm/bullet.svg)](http://travis-ci.org/flyerhzm/bullet)
 [![AwesomeCode Status for flyerhzm/bullet](https://awesomecode.io/projects/6755235b-e2c1-459e-bf92-b8b13d0c0472/status)](https://awesomecode.io/repos/flyerhzm/bullet)
 [![Coderwall Endorse](http://api.coderwall.com/flyerhzm/endorsecount.png)](http://coderwall.com/flyerhzm)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgpaulavicius%2Fbullet.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgpaulavicius%2Fbullet?ref=badge_shield)
 
 The Bullet gem is designed to help you increase your application's performance by reducing the number of queries it makes. It will watch your queries while you develop your application and notify you when you should add eager loading (N+1 queries), when you're using eager loading that isn't necessary and when you should use counter cache.
 
@@ -471,3 +472,7 @@ Meanwhile, there's a line appended to `log/bullet.log`
 ```
 
 Copyright (c) 2009 - 2019 Richard Huang (flyerhzm@gmail.com), released under the MIT license
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgpaulavicius%2Fbullet.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgpaulavicius%2Fbullet?ref=badge_large)
